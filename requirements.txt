@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.3
+boto3==1.34.94
+dynamo==0.1.1
+moviepy==1.0.3
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+pytesseract==0.3.10
+python-dotenv==1.0.1
+python_dateutil==2.9.0.post0
+Requests==2.31.0
+skimage==0.0
+tqdm==4.66.2
