@@ -88,15 +88,27 @@ The below table lists the files in this repo and their descrpitions.
   </thead>
   <tbody>
     <tr>
-      <td>output.tsv</td>
-      <td>
-        The original dataset I managed to scrape from a screen recording of all the mini scores using OCR. It's not too great.
-      </td>
-    </tr>
-    <tr>
       <td>output.csv</td>
       <td>
         The actual complete dataset collected via the API.
+      </td>
+    </tr>
+    <tr>
+      <td>date_funcs.py</td>
+      <td>
+        Functions for messing around with dates like finding the difference or getting a range of dates.
+      </td>
+    </tr>
+    <tr>
+      <td>eda.py</td>
+      <td>
+        Exploring the data and getting familiar with it.
+      </td>
+    </tr>
+    <tr>
+      <td>output.tsv</td>
+      <td>
+        The original dataset I managed to scrape from a screen recording of all the mini scores using OCR. It's not too great.
       </td>
     </tr>
     <tr>
