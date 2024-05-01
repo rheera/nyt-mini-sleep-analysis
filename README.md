@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://mwcm.nyt.com/dam/mkt_assets/img/games/mini.png?raw=true" alt="NYT Mini Crossword Logo" width="190" height="100"/>
+    <img src="https://mwcm.nyt.com/dam/mkt_assets/img/games/mini.png?raw=true" alt="NYT Mini Crossword Logo" width="285" height="150"/>
 </p>
 
 # New York Times Mini Crossword Analysis
@@ -117,6 +117,8 @@ The below table lists the files in this repo and their descrpitions.
 - [`python`](https://www.python.org/downloads/) v3.12.2
 - [`pandas`](https://pandas.pydata.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML0187ENSkillsNetwork31430127-2021-01-01) for managing the data.
 - [`numpy`](https://numpy.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML0187ENSkillsNetwork31430127-2021-01-01) for mathematical operations.
+- [`pytesseract`](https://github.com/madmaze/pytesseract) for reading the frames with OCR.
+- [`MoviePy`](https://zulko.github.io/moviepy/) for navigating the video clip.
 
 ## Deliverables
 
