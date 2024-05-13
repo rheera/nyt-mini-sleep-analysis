@@ -70,3 +70,6 @@ def check_longest_streak(user, place):
         else:
             continue
     return {"longest": longest, "end_date": longest_end_date}
+
+
+df.sort_values("score", ascending=True).head(10)
